@@ -1,4 +1,4 @@
-TYPO3 CMS
+!!! This is a readonly fork of TYPO3 CMS 7.6 meant for quick code search utilizing githubs search options. (as github currently only supports searching the master branch) !!!
 =========
 
 [![Build Status](https://travis-ci.org/TYPO3/TYPO3.CMS.svg?branch=master)](https://travis-ci.org/TYPO3/TYPO3.CMS)
